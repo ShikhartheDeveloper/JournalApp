@@ -42,13 +42,7 @@ com.shikhar.JournalApp
 
 ---
 
-## 🔐 User Model
 
-```json
-{
-  "userName": "john_doe",
-  "password": "securePassword"
-}
 ```
 
 ## 📓 Journal Entry Model
@@ -56,8 +50,7 @@ com.shikhar.JournalApp
 ```json
 {
   "title": "My First Entry",
-  "content": "Today was productive!",
-  "date": "2025-07-26T14:30:00"
+  "content": "Today was productive!"
 }
 ```
 
