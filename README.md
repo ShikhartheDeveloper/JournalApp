@@ -131,5 +131,4 @@ com.shikhar.JournalApp
 ## 📬 Contact
 
 **Developer:** Shikhar Sharwalia
-📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-📍 Portfolio: \[your-portfolio-link] *(optional)*
+📧 Email: sharwaliashikhar@gmail.com
